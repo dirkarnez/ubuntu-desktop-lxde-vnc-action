@@ -1,5 +1,5 @@
 services:
-  stirling-pdf:
+  ubuntu:
     image: dorowu/ubuntu-desktop-lxde-vnc:latest
     stdin_open: true # docker run -i
     tty: true        # docker run -t
